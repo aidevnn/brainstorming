@@ -1,6 +1,6 @@
-# Brainstorming Skill – Grok 4.20
+# Brainstorming Skill – Grok
 
-Skill officiel au format standard Grok pour activer le **mode Assistant Brainstorming** multi-agents.
+Skill au format standard Grok pour activer le **mode Assistant Brainstorming** multi-agents.
 
 ## 📁 Structure du dépôt
 
