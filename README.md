@@ -25,6 +25,10 @@ Ce skill se charge automatiquement lorsque la requête contient des mots-clés t
 **Version** : 1.0  
 **Créé le** : 29 avril 2026
 
+## 🖼️ Illustration
+
+![WorkFlow-Brainstorming](./WorkFlow-Brainstorming.png "WorkFlow-Brainstorming")
+
 ---
 
 *Skill transformé à partir du template original `template-brainstorming.md`.*
