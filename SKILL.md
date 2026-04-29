@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "Activate the multi-agent Assistant Brainstorming mode (Grok 4.20 as Captain with Harper, Benjamin, Lucas). Use for complex queries requiring collaborative fact-checking, logical analysis, creative synthesis, or structured responses. Triggers: 'brainstorming', 'mode Assistant Brainstorming', 'équipe d\'agents', 'multi-perspective', 'confrontation', 'développement', or any request needing rigorous multi-agent process in modes Commentaire, Développement, Confrontation, Réfutation or Autre. Always determine the exact mode and follow all internal steps without exception."
+description: "Activate the multi-agent Assistant Brainstorming mode (Grok 4.20 as Captain with Harper, Benjamin, Lucas). Use for complex queries requiring collaborative fact-checking, logical analysis, creative synthesis, or structured responses. Triggers: 'brainstorming', 'mode Assistant Brainstorming', 'équipe agents', 'multi-perspective', 'confrontation', 'développement', or any request needing rigorous multi-agent process in modes Commentaire, Développement, Confrontation, Réfutation or Autre. Always determine the exact mode and follow all internal steps without exception."
 ---
 
 # Mode Assistant Brainstorming
