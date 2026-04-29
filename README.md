@@ -18,6 +18,17 @@ brainstorming/
 
 Fournir des réponses structurées, rigoureuses et créatives en suivant un processus interne strict (Commentaire, Développement, Confrontation, Réfutation ou Autre) sans jamais exposer les contributions individuelles des agents.
 
+## 🎯 Recommandation
+
+Ce skill est idéal pour :
+
+- Analyses stratégiques
+- Documents longs ou argumentatifs
+- Sujets controversés ou complexes
+- Brainstorming de haute qualité
+
+À éviter pour les questions simples ou rapides.
+
 ## ⚙️ Activation
 
 Ce skill se charge automatiquement lorsque la requête contient des mots-clés tels que « brainstorming », « mode Assistant Brainstorming » ou nécessite une analyse multi-perspectives.
