@@ -164,4 +164,4 @@ L’étape 1 du `SKILL.md` est en style **déclaratif**. Plus lisible après une
 
 ## Statut
 
-Brouillon pour dépôt dédié. L’agent obéit à `SKILL.md`. Ce README dit l’esprit, les usages et la doctrine de curation. Il n’est pas une instruction chargée.
+Publié sur le dépôt dédié. L’agent obéit à `SKILL.md`. Ce README dit l’esprit, les usages et la doctrine de curation. Il n’est pas une instruction chargée.
